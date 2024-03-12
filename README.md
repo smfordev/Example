@@ -6,4 +6,3 @@ Let's update.
 
 Another update to test pull command.
 
-Do different changes.
